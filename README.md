@@ -50,3 +50,4 @@ printf("hello 100")
 ## inerting urls
 [link](https://www.markdownguide.org/cheat-sheet/)
 
+[link1](https://www.markdownguide.org/cheat-sheet/)
