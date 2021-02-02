@@ -38,6 +38,6 @@ _civil
     * civil a
     * civil b
 _ mech
-    *mech a
-    *mech b
+    * mech a
+    * mech b
     
