@@ -37,9 +37,6 @@ _ mech
 _civil
     * civil a
     * civil b
-_ mech
-    * mech a
-    * mech b
 ## coding
 ````
 def fun():
@@ -48,4 +45,10 @@ print("hello apssdc")
 ```
 fun()
 ```
+printf("hello 100")
+`
+##inerting urls
+[link] https://www.markdownguide.org/cheat-sheet/
+
+
 
