@@ -41,5 +41,11 @@ _ mech
     * mech a
     * mech b
 ## coding
+````
+def fun():
 print("hello apssdc")
+```
+```
+fun()
+```
 
