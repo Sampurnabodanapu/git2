@@ -47,6 +47,6 @@ fun()
 ```
 printf("hello 100")
 `
-##inerting urls
-[link](https://www.markdownguide.org/cheat-sheet/)
+## inerting urls
+[link] (https://www.markdownguide.org/cheat-sheet/)
 
