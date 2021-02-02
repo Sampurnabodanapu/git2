@@ -41,11 +41,8 @@ _civil
 ````
 def fun():
 print("hello apssdc")
-```
-```
-fun()
-```
-```
+````
+
 
 ## inerting urls
 
