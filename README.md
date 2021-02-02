@@ -7,6 +7,8 @@ maRK DOWN SYNTAX
 ###### heading 
 # bold and italic formats
 **cse**
-_cse_
+__cse__
 *cse*
 _cse_
+_**cse**_
+__*cse*__
